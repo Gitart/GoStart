@@ -1,7 +1,7 @@
 @ECHO OFF
 ECHO Service Office
 ECHO API SERVICE
-ECHO Sav Arthur
+ECHO Savchenko Arthur
 ECHO 07-09.2015 
 
 SETLOCAL
